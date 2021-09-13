@@ -1,3 +1,13 @@
+# Fork of @jackfranklin/test-data-bot
+
+This repo is a fork since the main repo doesn't update the faker library to 5.x.x
+
+To install it just run:
+```
+npm install --save-dev @ma/test-data-bot
+```
+
+
 # @jackfranklin/test-data-bot
 
 [![CircleCI](https://circleci.com/gh/jackfranklin/test-data-bot.svg?style=svg)](https://circleci.com/gh/jackfranklin/test-data-bot)
